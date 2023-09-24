@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @sumitgautam0101
-- 👀 I’m interested in Peogramming and Science
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on BlockChain
-- 📫 How to reach me - via whatisonearth.com/contact
+👨‍💻 Full Stack & ML Developer | Algo Trader 📈
 
-<!---
-sumitgautam0101/sumitgautam0101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Passionate about coding, data, and finance 🚀. 
+🌄 By day, I'm a full stack developer crafting elegant, user-friendly apps. 
+🌙 By night, I'm an algorithmic trader exploring the fascinating world of financial markets 📊.
+
+Let's connect and collaborate on exciting projects! 💬🤝
